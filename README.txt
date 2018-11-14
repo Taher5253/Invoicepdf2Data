@@ -12,7 +12,7 @@ pip install Flask
 AFTER INSTALLATION GO TO PROJECT DIRECTORY:
 
 eg:-
-(venv) iconnect5@iconnect5:~/projects/invoice_reader_ai$
+(venv) taher@ubuntu:~/projects/invoice_reader_ai$
 
 
 RUN THE FOLLOWING COMMAND FROM PROJECT DIRECTORY:
