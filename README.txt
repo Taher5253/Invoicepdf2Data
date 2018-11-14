@@ -1,4 +1,6 @@
 
+Data extractor for PDF invoices
+
 INSTALLATION OF VIRTUAL ENVIRONMENT AND FLASK:
 
 commands to install virtual environment:
