@@ -1,0 +1,13 @@
+issuer: Intelliconnect Technologies LLP
+fields:
+  amount: Total\s+USD([\d,]+\.\d{2})
+  date:   Invoice Date:\s+(\d+ [a-zA-Z]+ \d+)
+  invoice_number: Invoice#\s+([a-zA-Z0-9\-]+)
+  subtotal: Sub Total\s+([\d,]+\.\d{2})
+  billto: Bill To\s+([a-zA-Z0-9\-\s\.\,]+)
+keywords:
+  - KKBKINBB
+  - B607
+options:
+  currency: USD
+  remove_whitespace: false
