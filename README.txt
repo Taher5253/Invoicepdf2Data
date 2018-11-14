@@ -8,6 +8,9 @@ sudo pip3 install virtualenv
 virtualenv venv
 source venv/bin/activate
 pip install Flask
+pip install pymongo
+pip install invoice2data
+
 
 AFTER INSTALLATION GO TO PROJECT DIRECTORY:
 
