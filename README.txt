@@ -1,6 +1,10 @@
 
 Data extractor for PDF invoices
 
+extracts text from PDF files using different techniques, like pdftotext, pdfminer or OCR – tesseract, tesseract4 or gvision (Google Cloud Vision).
+searches for regex in the result using a YAML-based template system
+saves results as CSV, JSON or XML or renames PDF files to match the content.
+
 INSTALLATION OF VIRTUAL ENVIRONMENT AND FLASK:
 
 commands to install virtual environment:
